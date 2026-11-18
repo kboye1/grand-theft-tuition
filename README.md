@@ -6,8 +6,7 @@ A third-person campus comedy set around Fordham’s Edwards Parade. Explore the 
 
 ## Play in your browser
 
-[Open Grand Theft Tuition](https://kboye1.github.io/rose-hill-bad-decisions/) on a phone with touch controls or on a desktop with a keyboard and mouse.
-
+[Open Grand Theft Tuition](https://kboye1.github.io/grand-theft-tuition/) on a phone with touch controls or on a desktop with a keyboard and mouse.
 ## Install on a phone
 
 - **iPhone or iPad** — Open the game link in Safari, tap **Share**, then **Add to Home Screen** and **Add**. Turn on **Open as Web App** if Safari offers it.
